@@ -1,0 +1,27 @@
+body {
+    background-color: slateblue;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+}
+.checkmark {
+    width: 25px;
+    height: 25px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    
+}
+img {
+    border-radius: 200px;
+}
+#my-progress {
+    color: white;
+    text-align: center;
+    margin: 200px 0 75px 0;
+}
+.checkmark {
+    width: 25px;
+    height: 25px;
+}
