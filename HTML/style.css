@@ -25,6 +25,7 @@ h1 {
 .checkmark {
   width: 25px;
   height: 25px;
+  border-radius: 25px;
 }
 #current-steps {
   text-align: left;
